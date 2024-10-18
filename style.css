@@ -1,0 +1,98 @@
+.full{
+    border: 1px solid black;
+    width: 62%;
+    height: 583px;
+}
+.food{
+    background-image: url(./bgimg.jpg); 
+    width: 100%;
+    height: 61vh;
+    background-size: 100% 100%;
+    background-color: #ff00003b;
+    background-blend-mode: overlay;
+}
+
+.accound{
+    FONT-SIZE: 20PX;
+    color: white;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+.head{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    font-family: math;
+    }
+
+.logo{
+    height: 115px;
+    padding: 0px 45.7%;
+    padding-top: 35px;
+}
+
+    
+.account{
+    width: 155px;
+    height: 30px;
+    border: 1px solid white;
+    background-color: #ff000000;
+    color: white;
+    border-radius: 5px;
+}
+
+.order{
+    height: 30px;
+    width: 176px;
+    font-size: 18px;
+}
+.order1{
+    height: 30px;
+    width: 395px;
+    font-size: 18px;
+}
+  
+.order2 {
+        padding: 0px 27%;
+    }
+
+    .layer{
+        display: flex;
+        height: 130px;
+        width: 27%;
+        gap: 22px;
+    }
+    .layer1{
+        width: 70%;
+    }
+
+    .chickenimg{
+        width: 25%;
+        height: 90px;
+    }
+    .cards{
+        display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 0px;
+    font-size: 8px;
+    padding: 0px 7%;
+}
+    
+
+    .layer5{
+        font-size: 30px;
+        height: 8px;
+        margin-top: 5px;
+        margin-left: 144px;
+    }
+    
+    .layer6{
+        font-size: 18px;
+        margin-left: 147px;
+        margin-top: 27px;
+        
+    }
+    
